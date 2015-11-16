@@ -1,0 +1,9 @@
+[submodule "themes/hueman"]
+	path = themes/hueman
+	url = https://github.com/ppoffice/hexo-theme-hueman.git
+[submodule "themes/jekyll"]
+	path = themes/jekyll
+	url = https://github.com/pinggod/hexo-theme-jekyll
+[submodule "themes/light"]
+	path = themes/light
+	url = https://github.com/tommy351/hexo-theme-light.git
