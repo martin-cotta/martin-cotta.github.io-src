@@ -50,7 +50,7 @@ links:
 use_google_apis: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-70264909-1
 favicon: /favicon.png
 fb_admins:
 fb_app_id:
