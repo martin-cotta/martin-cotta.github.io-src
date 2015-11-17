@@ -51,7 +51,7 @@ hexo server # to see your local site in the browser
 ```
 
 ### Configure
-Modify site settings in `_config.yml`
+Modify your site settings in `_config.yml`, here are some common ones:
 
 ``` yml
 # Site
@@ -61,7 +61,12 @@ subtitle: my subtitle
 description: some description
 author: Your name
 language: en
+# URL
+url: http://username.github.io
+root: /
+permalink: :year/:month/:title/
 # Writing
+external_link: false # Open external links in new tab
 filename_case: 1 # lowercase
 ```
 
