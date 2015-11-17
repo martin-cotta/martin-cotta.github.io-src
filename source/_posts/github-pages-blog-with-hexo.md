@@ -53,7 +53,7 @@ hexo server # to see your local site in the browser
 ### Configure
 Modify your site settings in `_config.yml`, here are some common ones:
 
-``` yml
+```
 # Site
 ## https://hexo.io/docs/configuration.html
 title: My blog title
