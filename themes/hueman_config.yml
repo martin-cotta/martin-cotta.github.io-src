@@ -33,7 +33,7 @@ social_links:
   google-plus: https://plus.google.com/+MartinCottaNearsoft
   github: https://github.com/martin-cotta
   # weibo:
-  # rss:
+  rss: /atom.xml
 widgets:
 - recent_posts
 - category
